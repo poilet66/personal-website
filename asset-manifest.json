@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rohanveit1.github.io/static/css/main.b0495130.css",
+    "main.js": "/rohanveit1.github.io/static/js/main.c994b198.js",
+    "static/js/453.253ccfac.chunk.js": "/rohanveit1.github.io/static/js/453.253ccfac.chunk.js",
+    "index.html": "/rohanveit1.github.io/index.html",
+    "main.b0495130.css.map": "/rohanveit1.github.io/static/css/main.b0495130.css.map",
+    "main.c994b198.js.map": "/rohanveit1.github.io/static/js/main.c994b198.js.map",
+    "453.253ccfac.chunk.js.map": "/rohanveit1.github.io/static/js/453.253ccfac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0495130.css",
+    "static/js/main.c994b198.js"
+  ]
+}
